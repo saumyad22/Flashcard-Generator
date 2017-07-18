@@ -1,0 +1,6 @@
+[
+{"text":"(Taylor Swift) won the Grammy for the Album of the Year with her album '1989' at the 2017 Grammy Awards.","cloze":"Taylor Swift"},
+{"text":"In the movie (Deadpool), Wade Wilson hunted down the man who gave him a scarred physical appearance.","cloze":"Deadpool"},
+{"text":"(Luigi) is Mario's brother in Super Mario Bros.","cloze":"Luigi"},{"text":"Pop (Tarts) are toaster pastries.","cloze":"Tarts"},
+{"text":"Now is the (winter) of our discontent.","cloze":"winter"},{"text":"To (sleep), perchance to dream...","cloze":"sleep"}
+]

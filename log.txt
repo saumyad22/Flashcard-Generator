@@ -1,0 +1,8 @@
+[
+{"front":"JSON stands for?","back":"Javascript Object Notation"},
+{"front":"Which built-in method adds one or more elements to the end of an array and returns the new length of the array?","back":"push()"},
+{"front":"Which function of String object combines the text of two strings and returns a new string?","back":"concat()"},
+{"front":"Which function of Array object removes the last element from an array and returns that element?","back":"Pop()"},
+{"front":"Which of the following function of String object splits a String object into an array of strings by separating the string into substrings?" ,"back":"split()"}
+
+]
